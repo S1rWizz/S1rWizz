@@ -1,5 +1,10 @@
-## Hi there 👋
-
+<h1 align="center">## Hi there 👋</h1>
+<h1 align="center">
+  I'm Justin
+</h1>
+<h4 align="center">
+  Senior year IT student working on my portfolio.
+</h4>
 <!--
 **S1rWizz/S1rWizz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
