@@ -2,7 +2,7 @@
   Hi there 👋 I'm Justin..
 </h1>
 <h4 align="center">
-  a Senior year IT student working on my portfolio.
+  a senior year IT student working on my portfolio.
 </h4>
 <!--
 **S1rWizz/S1rWizz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
