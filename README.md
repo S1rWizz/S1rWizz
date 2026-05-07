@@ -2,8 +2,14 @@
   Hi there 👋 I'm Justin..
 </h1>
 <h4 align="center">
-  a senior year IT student working on my portfolio.
+  a senior year IT student working on his portfolio.
 </h4>
+<div align>
+   
+![](https://github-readme-stats.shion.dev/api?username=orbitronhd&theme=dark&hide_border=true&include_all_commits=true&count_private=true) 
+![](https://streak-stats.demolab.com?user=orbitronhd&theme=dark&hide_border=true)
+
+</div>
 <!--
 **S1rWizz/S1rWizz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
